@@ -1,2 +1,1 @@
-# Continual_Graph_Learning
-Continual Graph Learning Papers, Tutorials, Surveys, and Other Resources
+# Continual Graph Learning Papers, Tutorials, Surveys, and Other Resources

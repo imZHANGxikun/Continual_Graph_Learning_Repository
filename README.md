@@ -36,7 +36,6 @@
 1. **Overcoming Catastrophic Forgetting in Graph Neural Networks** [paper](https://arxiv.org/pdf/2012.06002.pdf)
    
 3. **Graph Neural Networks with Continual Learning for Fake News Detection from Social Media** [paper](https://arxiv.org/pdf/2007.03316.pdf)
-   
    Combined GCN with existing continual learning techniques like some regularizations
 
 ## Continual Graph Learning Surveys

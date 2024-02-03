@@ -15,7 +15,7 @@
 
 If you find this repository useful, please consider citing this list:
 
-'''
+```
 @misc{zhang2023cgl,
     title = {Continual Graph Learning Repository},
     author = {Zhang, Xikun},
@@ -23,7 +23,7 @@ If you find this repository useful, please consider citing this list:
     url = {https://github.com/imZHANGxikun/Continual_Graph_Learning_Repository},
     year = {2023},
 }
-'''
+```
   
 ## Continual Graph Learning Tutorials
 1. **Continual Graph Learning (SDM2023)** [link](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials) [project page](https://queuq.github.io/CGL_tut/)

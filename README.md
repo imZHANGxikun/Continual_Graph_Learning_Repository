@@ -54,6 +54,7 @@ If you find this repository useful, please consider citing this list:
 5. **Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs** [link](https://arxiv.org/abs/2211.15845)
 
 2. **Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs** [arxiv](https://arxiv.org/abs/2211.15845) [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/25539/25311)
+3. **Towards Continual Knowledge Graph Embedding via Incremental Distillation (AAAI 2024)** [AAAI link](https://ojs.aaai.org/index.php/AAAI/article/view/28722) [code](https://github.com/seukgcode/IncDE)
    
 ### Memory-replay based
 

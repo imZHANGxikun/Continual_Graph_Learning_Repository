@@ -26,17 +26,17 @@ If you find this repository useful, please consider citing this list:
 ```
   
 ## Continual Graph Learning Tutorials
-1. **Continual Graph Learning (SDM2023)** [link](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials) [project page](https://queuq.github.io/CGL_tut/)
+1. **Continual Graph Learning (SDM 2023)** [link](https://www.siam.org/conferences/cm/program/minitutorials/sdm23-minitutorials) [project page](https://queuq.github.io/CGL_tut/)
   
-1. **Continual Graph Learning (WWW2023)** [link](https://www2023.thewebconf.org/program/tutorials/) [project page](https://queuq.github.io/CGL_tut01/)
+1. **Continual Graph Learning (WWW 2023)** [link](https://www2023.thewebconf.org/program/tutorials/) [project page](https://queuq.github.io/CGL_tut01/)
 
-2. **Continual Learning on Graphs: Challenges, Solutions, and Opportunities** [project page](https://queuq.github.io/CGL_AAAI2024/)
+2. **Continual Learning on Graphs: Challenges, Solutions, and Opportunities (AAAI 2024)** [project page](https://queuq.github.io/CGL_AAAI2024/)
 
 
 
 ## Continual Graph Learning Benchmarks
-1. **CGLB: Benchmark tasks for continual graph learning (2022)** [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets_and_Benchmarks.html)
-2. **Catastrophic forgetting in deep graph networks: an introductory benchmark for graph classification (2021)** [paper](https://arxiv.org/abs/2103.11750)
+1. **CGLB: Benchmark tasks for continual graph learning (NeurIPS 2022)** [NeurIPS link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets_and_Benchmarks.html) [code](https://github.com/QueuQ/CGLB)
+2. **Catastrophic forgetting in deep graph networks: an introductory benchmark for graph classification (Arxiv 2021, Frontiers in Artificial Intelligence 2022)** [arxiv](https://arxiv.org/abs/2103.11750) [Frontiers in Artificial Intelligence](https://www.frontiersin.org/articles/10.3389/frai.2022.824655/full)
 
 
 ## Continual Graph Learning Works
